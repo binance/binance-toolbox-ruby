@@ -1,14 +1,14 @@
 # Binance Toolbox in Ruby
 
-A collection of simple ruby scripts that work on gem `binance-connector`. 
+A collection of simple ruby scripts that work on gem `binance-connector-ruby`. 
 
 ## What is this gem
 
 It's newly built nice gem includs all Binance Spot API endpoints. 
 
 - The github repository: https://github.com/binance/binance-connector-ruby
-- The gem: https://rubygems.org/gems/binance-connector
-- The document: https://www.rubydoc.info/gems/binance-connector
+- The gem: https://rubygems.org/gems/binance-connector-ruby
+- The document: https://www.rubydoc.info/gems/binance-connector-ruby
 
 ## Installation
 
@@ -16,7 +16,7 @@ To run these scripts, it's required to install the gem by:
 
 ```shell
 
-gem install binance-connector
+gem install binance-connector-ruby
 
 ```
 
