@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    binance-connector (1.0.0)
+    binance-connector-ruby (1.0.1)
       faraday (~> 1.8)
       websocket-eventmachine-client (~> 1.3)
     eventmachine (1.2.7)
@@ -39,7 +39,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  binance-connector
+  binance-connector-ruby
 
 BUNDLED WITH
    2.2.3
